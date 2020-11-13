@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "483088391641",
+    "firebase_url": "https://maquinadespachadora-22b4c.firebaseio.com",
+    "project_id": "maquinadespachadora-22b4c",
+    "storage_bucket": "maquinadespachadora-22b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483088391641:android:41ec1969890ed269c44dc8",
+        "android_client_info": {
+          "package_name": "com.example.maquinadespachadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483088391641-5h1e0k5am6k4rpp3uoevguin4iv5205s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maquinadespachadora",
+            "certificate_hash": "8383afbea7d38c3e14525b89a168da74876b435b"
+          }
+        },
+        {
+          "client_id": "483088391641-ej8pso41rbdtj853g9d0pnpc337fgk72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD24GhCGo7MzqoyqJ7XJJX2NvauaQbyroA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483088391641-ej8pso41rbdtj853g9d0pnpc337fgk72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/752398569/MaquinaDespachadora.iml" filepath="$PROJECT_DIR$/.idea/modules/752398569/MaquinaDespachadora.iml" group="MaquinaDespachadora" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app2.iml" filepath="$PROJECT_DIR$/.idea/modules/app2.iml" group="MaquinaDespachadora/app2" />
+    </modules>
+  </component>
+</project>
